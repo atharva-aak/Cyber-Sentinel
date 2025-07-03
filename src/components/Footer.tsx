@@ -28,22 +28,22 @@ const Footer: React.FC = () => {
               against cyber threats in our increasingly digital world.
             </p>
             <div className="flex space-x-4 mt-6">
-              <a href="#" className={`transition-colors ${
+              <a href="https://github.com/atharva-aak/Cyber-Sentinel" className={`transition-colors ${
                 isDarkMode ? 'text-gray-400 hover:text-green-400' : 'text-gray-600 hover:text-green-500'
               }`}>
                 <Github className="h-5 w-5" />
               </a>
-              <a href="#" className={`transition-colors ${
+              <a href="https://x.com/_atharva_ak_" className={`transition-colors ${
                 isDarkMode ? 'text-gray-400 hover:text-green-400' : 'text-gray-600 hover:text-green-500'
               }`}>
                 <Twitter className="h-5 w-5" />
               </a>
-              <a href="#" className={`transition-colors ${
+              <a href="https://www.linkedin.com/in/atharva-kalbande38/" className={`transition-colors ${
                 isDarkMode ? 'text-gray-400 hover:text-green-400' : 'text-gray-600 hover:text-green-500'
               }`}>
                 <Linkedin className="h-5 w-5" />
               </a>
-              <a href="#" className={`transition-colors ${
+              <a href="mailto:atharvakalbande5@gmail.com" className={`transition-colors ${
                 isDarkMode ? 'text-gray-400 hover:text-green-400' : 'text-gray-600 hover:text-green-500'
               }`}>
                 <Mail className="h-5 w-5" />
